@@ -1,0 +1,11 @@
+.nf-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.nf-image {
+  width: 60%;
+}
